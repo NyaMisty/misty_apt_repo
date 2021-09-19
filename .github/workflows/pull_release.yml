@@ -34,7 +34,19 @@ jobs:
            (cd debians; ../workflow_helper/pull_releases.sh $CRED $line)
         done < $input
     
+    - name: Check deb changes
+      id: deb_change
+      run: |
+        cd debians
+        git add .
+        if [ -z "$(git status ':(glob)*' --porcelain)" ]; then
+          echo "::set-output name=deb_change::false"
+        else
+          echo "::set-output name=deb_change::true"
+        fi
+
     - name: Update Package
+      if: ${{ steps.deb_change.outputs.deb_change == 'true' }}
       run: |
         ./updaterepo.sh
    
