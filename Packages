@@ -1,0 +1,303 @@
+Package: com.comex.attachanddetach
+Architecture: iphoneos-arm
+Version: 0.0.2
+Section: System
+Maintainer: Misty
+Installed-Size: 272
+Depends:
+Filename: ./debians/com.comex.attachanddetach_0.0.2_iphoneos-arm.deb
+Size: 7702
+MD5sum: 2bbb907b1c67d93c6e9163c31d221bdb
+SHA1: cd482cb39444d5d28f7320924cbadc568ce334da
+SHA256: 69a24a49d9f71925d117b35827a46ef553f20c826edc23535f9056d19241dcaa
+SHA512: 7157cf02d017bcc029d56d850a564b8c470eaa11a84b8d61c22668fe4703e0aa58c2936b767c7d1cc2201fcec7fd5ee53a890d0f4d7da31c41407a148a27f472
+Description: use .dmgs on iOS
+Tag: role::hacker
+Name: attach-and-detach
+Author: comex, danzatt, Misty
+
+Package: com.comex.attachanddetach
+Architecture: iphoneos-arm
+Version: 0.0.3
+Section: System
+Maintainer: Misty
+Installed-Size: 592
+Depends:
+Filename: ./debians/com.comex.attachanddetach_0.0.3_iphoneos-arm.deb
+Size: 12416
+MD5sum: b373906ff542c8899b4a2227cf6794b3
+SHA1: 85c07fa57b823b5f651e6b0772215e730c901765
+SHA256: a1d64840d154b3b9fa16edf9e1ef815faceaef8b5229c1ee79acabab0f6a87dc
+SHA512: 25807c3b901b9cb3d7ba3a5d4c80474b0dd8cb2267bdacf646ac806b8f3887411849d3e121628fad73242071050c8ac82d751427d3d3762f38b1bc43a573c01d
+Description: use .dmgs on iOS
+Tag: role::hacker
+Name: attach-and-detach
+Author: comex, danzatt, Misty
+
+Package: jp.akusio.kernbypass
+Architecture: iphoneos-arm
+Version: 0.0.3-10+debug
+Section: System
+Maintainer: akusio, Misty
+Installed-Size: 336
+Depends: mobilesubstrate, applist, preferenceloader, com.comex.attachanddetach, Firmware(>=12.0)
+Filename: ./debians/jp.akusio.kernbypass_0.0.3-10+debug_iphoneos-arm.deb
+Size: 145942
+MD5sum: 679a3f196e8d83535b3c5db1290cb2d3
+SHA1: fdc311c807e4f4dbe0255d3e772fae45b5e9f151
+SHA256: 98f9a828687c64a49f4253dc7c943cfd9bb560ce695da76cda27697a75a24839
+SHA512: 831768a46a376e10e23fffb07a8eecc0007bd5ce1bf3326ace8b70c662dec7fe871bb48ae35407cdf50b89c31c3906bac9c8f7556ceba403884c57f91abf25e3
+Description: kernel level jailbreak detection bypass.
+Name: KernBypass
+Depiction: http://akusio.github.io/descriptions/kernbypass/index.html
+Author: akusio, Misty
+
+Package: jp.akusio.kernbypass
+Architecture: iphoneos-arm
+Version: 0.0.3-26+debug
+Section: System
+Maintainer: akusio, Misty
+Installed-Size: 340
+Depends: mobilesubstrate, applist, preferenceloader, com.comex.attachanddetach, Firmware(>=12.0)
+Filename: ./debians/jp.akusio.kernbypass_0.0.3-26+debug_iphoneos-arm.deb
+Size: 146816
+MD5sum: d6eebaad4311108b0e7fa8f05962fe8f
+SHA1: eed8b44b413458bd7360f53f240d7ffecbc6a37b
+SHA256: 44f19ee955ce09592b2c2b4ac49e1bdd97358a8b10e6ff0c6d7e3dcfa52226c7
+SHA512: a17e1a6a95e14c095c7f512f71a0bac6a8c2975e755debb9329d214c2965b28166225f24ecd273179ebaf1f95ead6964e388a817a899bef8e63cbece3770c320
+Description: kernel level jailbreak detection bypass.
+Name: KernBypass
+Depiction: http://akusio.github.io/descriptions/kernbypass/index.html
+Author: akusio, Misty
+
+Package: jp.akusio.kernbypass
+Architecture: iphoneos-arm
+Version: 0.0.3-9+debug
+Section: System
+Maintainer: akusio, Misty
+Installed-Size: 336
+Depends: mobilesubstrate, applist, preferenceloader, com.comex.attachanddetach, Firmware(>=12.0)
+Filename: ./debians/jp.akusio.kernbypass_0.0.3-9+debug_iphoneos-arm.deb
+Size: 145952
+MD5sum: a5834e24adfb33d87469769f9af3c2fa
+SHA1: b678794801ae9f8896088049762de2c82ca7f7c2
+SHA256: 0f2f5a6b4d8f483891aeb36ef444552246583b94044a6202a93d07a68830ec40
+SHA512: de2b3312a1a1f6aaa5f94d2505395f635dc766d031f1431ccbf9175a66aefc047fa1244608bf470c02f79efba6c116906fe2de987192fa40625499f0dc364b3c
+Description: kernel level jailbreak detection bypass.
+Name: KernBypass
+Depiction: http://akusio.github.io/descriptions/kernbypass/index.html
+Author: akusio, Misty
+
+Package: me.chichou.webinspect-global
+Architecture: iphoneos-arm
+Version: 0.2.0
+Section: Tweaks
+Maintainer: codecolorist
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debians/me.chichou.webinspect-global_0.2.0_iphoneos-arm.deb
+Size: 4288
+MD5sum: 54cfeced6af8ac68af3a123c0e3b0e6e
+SHA1: 9b540fee914640d70ac0f82a0d8f278dd2de5612
+SHA256: ebdc8d6ba094a9045a4b9c7979a95425e6045e6c00ee9763a846ca55bcd323a8
+SHA512: d5408bb1b17dc11054f48b0868184ff0862668b7656e066ebfcfaf56fc36c70ac4b195ac7583d5d7139c26037bcf4a2a154628f1d7abb8d6fc6ff8434d7496bf
+Description: Enable webview remote inspect for every app
+Name: webinspect
+Author: codecolorist
+
+Package: moe.misty.bilidownload
+Architecture: iphoneos-arm
+Version: 0.0.2
+Section: Tweaks
+Maintainer: misty
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debians/moe.misty.bilidownload_0.0.2_iphoneos-arm.deb
+Size: 7234
+MD5sum: 6172eababb72078edba4c7a8c54bbf77
+SHA1: 9ed19263a983058750c182dec2d2cbcb59e52a64
+SHA256: 81ebddc9664a2cf819eec0af234d6ae5de5a8e9b5f1f46fb09f09b290e9363b2
+SHA512: e1b0abca0728d05ca42d883fd237303a50b88e532e96c7211631f83f835f952ca13b2a2403761c640004712f98f442a907e8ee6d1ec3ae19b720c4e100ea733c
+Description: An awesome MobileSubstrate tweak!
+Name: BiliDownload
+Author: misty
+
+Package: moe.misty.bindfsmount
+Architecture: iphoneos-arm
+Version: 0.0.1-19+debug
+Section: System
+Maintainer: misty
+Installed-Size: 364
+Filename: ./debians/moe.misty.bindfsmount_0.0.1-19+debug_iphoneos-arm.deb
+Size: 7916
+MD5sum: 0c23ec3aaf9c74e086f50b0c788cc3d9
+SHA1: 1aa86d1505f33cf2b65bbaf5bb8f8dc5aacec2e0
+SHA256: e79dd9557012844e492c696323fb239078dc4593fedee040f3eaee000cdfc3ca
+SHA512: 89b9b9f9d785c39db7d35bf2a5a629187410d81d227cb0bf4e81b32cf897f5cb81c3cab5e9493683646c23167fad2bc896023cd68d1f49f4119f18279808a5f5
+Description: An awesome tool of some sort!!
+Tag: role::hacker
+Name: mount_bindfs
+Author: misty
+
+Package: moe.misty.bindfsmount
+Architecture: iphoneos-arm
+Version: 0.0.1-19
+Section: System
+Maintainer: misty
+Installed-Size: 412
+Filename: ./debians/moe.misty.bindfsmount_0.0.1-19_iphoneos-arm.deb
+Size: 7002
+MD5sum: 96c8992e1660369a76589f48c6989bcb
+SHA1: 0644aefe0c030be48b33d428e57758902c426733
+SHA256: bbdd3661c59276103e792fbf24f2691cb81c5d50206b901b77cd04f6feed51de
+SHA512: 2d98e829ed3f4855ba3918e991226b8c4ec6e2eda19eabc71f03bb0dbfc9b59e6a491b05a4a94bc03aed010659d5c14fc993bcd50f3991e8449e3d2c5be30ce7
+Description: An awesome tool of some sort!!
+Tag: role::hacker
+Name: mount_bindfs
+Author: misty
+
+Package: moe.misty.fouldecrypt
+Architecture: iphoneos-arm
+Version: 0.0.1
+Section: System
+Maintainer: misty
+Installed-Size: 264
+Filename: ./debians/moe.misty.fouldecrypt_0.0.1_iphoneos-arm.deb
+Size: 6242
+MD5sum: 0e62be4416354701e407bb8899e510bd
+SHA1: a3d998385dcfbb2b3b74e932715a3d9e88be9dfd
+SHA256: e8adede066e354d768e154136501f6de88c572497ffdee1b22aa9ff756bb9b51
+SHA512: dc35e543c853d670b40c633db0e6461e812d2187d1721af610d69cf2cb3dac3d090e6c3dcae9752ac19f98e6e55264533f840a52045ed460badb34cffbf88c66
+Description: An awesome tool of some sort!!
+Tag: role::hacker
+Name: fouldecrypt
+Author: misty
+
+Package: moe.misty.fouldecrypt
+Architecture: iphoneos-arm
+Version: 0.0.2-3+debug
+Section: System
+Maintainer: misty
+Installed-Size: 2400
+Depends: libkrw (>= 1.0.0)
+Filename: ./debians/moe.misty.fouldecrypt_0.0.2-3+debug_iphoneos-arm.deb
+Size: 281560
+MD5sum: 5e92f58843c5dd0f85dba8981224de6c
+SHA1: bce2220c464708f6a9e5addcaf588caf4db6c898
+SHA256: 7885b963f7ae76395b51c424006cbc20d786c4dc57a197c6d12dfc573296a5a2
+SHA512: c597d3cfc23da5a25d510d2237de070de482dbcbd292f0c6f05e327ff707612efb25331074289602f2d007ac69fa965701d13911b9501832a17f0b9dd0e780d9
+Description: Directly decrypt binaries like flexdecrypt, but also supports iOS 14
+Tag: role::hacker
+Name: fouldecrypt
+Author: misty
+
+Package: moe.misty.fouldecrypt
+Architecture: iphoneos-arm
+Version: 0.0.2
+Section: System
+Maintainer: misty
+Installed-Size: 664
+Depends: libkrw (>= 1.0.0)
+Filename: ./debians/moe.misty.fouldecrypt_0.0.2_iphoneos-arm.deb
+Size: 71436
+MD5sum: 72d52fd377592793ed147a47f9397fd1
+SHA1: 896de285ec9f892e4d19d41591f5a5d77228a934
+SHA256: ae74a9f52996044d653e19093f86228f5f71d705192c3dabb1f4002bacba3c13
+SHA512: dccc9418ece0a7e1fc328c71275a33289a3ceeaceb272534b101a939c7a81702bfcd8440c6aedcd2150e4f40b26658e04595f5c3e07d73d5d902aa8949ab8898
+Description: Directly decrypt binaries like flexdecrypt, but also supports iOS 14
+Tag: role::hacker
+Name: fouldecrypt
+Author: misty
+
+Package: moe.misty.fouldecrypt
+Architecture: iphoneos-arm
+Version: 0.0.3
+Section: System
+Maintainer: misty
+Installed-Size: 768
+Depends: libkrw (>= 1.0.0)
+Filename: ./debians/moe.misty.fouldecrypt_0.0.3_iphoneos-arm.deb
+Size: 80526
+MD5sum: 00605d726f99d479f29cf2e0fcc0ddbe
+SHA1: fd468e8403ecc08e0adbbbec760d45d1a332b8ef
+SHA256: 0b289ca153d91e726ae59b782cdbd532fd270635b103ac49c3665ff1a55cd7b5
+SHA512: 179b3b0d8c01217a51377473e64b86ac331a0e5cc4cb52106ff619b5c7e62e429f266f2f1264862f612ff8a82624e443f1def30b87111ab3f7b63765afcb3179
+Description: Directly decrypt binaries like flexdecrypt, but also supports iOS 14
+Tag: role::hacker
+Name: fouldecrypt
+Author: misty
+
+Package: moe.misty.kernbypass14
+Architecture: iphoneos-arm
+Version: 0.0.6
+Section: System
+Maintainer: Misty
+Installed-Size: 1860
+Pre-Depends: firmware (>= 12.0), firmware (<< 15.0)
+Depends: mobilesubstrate, preferenceloader
+Conflicts: jp.akusio.kernbypass, com.apple.memecity
+Replaces: jp.akusio.kernbypass-unofficial
+Filename: ./debians/moe.misty.kernbypass14_0.0.6_iphoneos-arm.deb
+Size: 94066
+MD5sum: 07178316e8f2efd18625285277adaa89
+SHA1: 50fd76d031d2966c676ede8d86e90fafeb94e8b8
+SHA256: 95e4fe3c0eb3a928c22a0ce4f1fa07fd5a21fd9d097eed0a593c7d5cfb8dc780
+SHA512: c4112e1047ba03d027eef5f48b43ff3b86d137b65d04adb658164f618fca6a46840ae4c7a1599f5ee9446682f5fbab743d46434f671fb7acd47358ceb7ed7e0c
+Description: kernel level jailbreak detection bypass.
+Tag: purpose::extension, compatible::ios12, compatible::ios13, compatible::ios14
+Author: akusio
+Name: KernBypass (iOS14)
+dev: akusio, Misty, ichitaso, XsF1re
+Icon: file:///Library/PreferenceBundles/KernBypassPrefs.bundle/icon@2x.png
+
+Package: moe.misty.sifunlockjp
+Architecture: iphoneos-arm
+Version: 0.0.1-15+debug
+Section: Tweaks
+Maintainer: misty
+Installed-Size: 216
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/moe.misty.sifunlockjp_0.0.1-15+debug_iphoneos-arm.deb
+Size: 25792
+MD5sum: 250fddf24d40dc960587d78702a46cb3
+SHA1: be228639fb2263f9f4639c620d65b5f95eba7c59
+SHA256: 331bab859e4c580072b4412bc30b637f992dcbad41a0aaaf6ca1d08eeeae5c93
+SHA512: 5831ef6c4ea33129ade73035e80ffea9d2751473ba943cd28739f960cc0e53e09ba9884623d66d993638a68a4280ebf76821c0791b9bf4c79e8e3529c012351d
+Description: An awesome MobileSubstrate tweak!
+Name: sifunlock jp
+Author: misty
+
+Package: moe.misty.sifunlockjp
+Architecture: iphoneos-arm
+Version: sifas-jp-843638800
+Section: Tweaks
+Maintainer: misty
+Installed-Size: 144
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/moe.misty.sifunlockjp_sifas-jp-843638800_iphoneos-arm.deb
+Size: 15626
+MD5sum: 51301438028578bc7723c4a59843e2ab
+SHA1: 93a4ab7283b7762b6b81363b59c35f96d568855c
+SHA256: 03fb8239e7537e5aba9c7a256f19229d307e7b57033206954176c3919c3e7d99
+SHA512: 377e4a1749ff5d65849889b8a2438d65affca834e35c37d7cf16cecd2e9b11cf42821ff19a4e9cce7e69f80063c9566258dfa0c0331e92ddabdceb169a75502b
+Description: An awesome MobileSubstrate tweak!
+Name: sifunlock jp
+Author: misty
+
+Package: moe.misty.surge4-advanced
+Architecture: iphoneos-arm
+Version: 0.0.1
+Section: Tweaks
+Maintainer: misty
+Installed-Size: 140
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/moe.misty.surge4-advanced_0.0.1_iphoneos-arm.deb
+Size: 10648
+MD5sum: b965dea8ba7be0313e81c3ea0ef91144
+SHA1: 7faac9b057c4ffabe6f431dfab5051affc0ed308
+SHA256: 54fb7f7bad6a03631689c6889df86906873c73c6ca5794231ba3c870fdbbb513
+SHA512: e834627820151ce13b285f8ceb814b7d2875952bbbae887691aa629c675f969382488f931249b15470d205088d122380e4278f3e5780e0db2f2a0e351d9368f3
+Description: An awesome MobileSubstrate tweak!
+Name: Surge4Advanced
+Author: misty
+

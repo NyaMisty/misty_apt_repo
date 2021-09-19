@@ -1,0 +1,37 @@
+Architectures: iphoneos-arm
+Codename: CODENAME_HERE
+Components: main
+Date: Sun, 19 Sep 2021 18:16:08 +0000
+Description: Nope ;)
+Label: Misty
+Origin: Misty's repository
+Suite: stable
+Version: 1.0
+MD5Sum:
+ b7fe3156decd27105a19221e3dd9f2e1            11577 Packages
+ 6665777ed4b5e57adcc657c4fa13f981             4121 Packages.bz2
+ bc32e360216fcea15aa4a121e4be28df             4208 Packages.gz
+ d43c815b2d35772def1ab1101ca8dd69             3908 Packages.xz
+ b8a1a95e7263313b08db8b69f68b6a8f             3844 Packages.zst
+ d7d48f44c253609c661116391f82fc90              195 Release
+SHA1:
+ 726b1178b2f195d2cb7021abe1290cc49d175b72            11577 Packages
+ 950bf56338f5d6235d172fa23179d4d3cc5b454d             4121 Packages.bz2
+ 0952bfd30916d3f5a2b65f5d2fb119a60752e04a             4208 Packages.gz
+ 18e9f83ff558bb726a7fec16a37b19cc4f02facc             3908 Packages.xz
+ c00806c41229554d820c1045e6d0f41a261dec99             3844 Packages.zst
+ 6a19e377158fdb6e199959d4abe2cb0ab67c66b0              195 Release
+SHA256:
+ 413771e20b9c571a825e497f66963bd5c5a605e436e895d46a95ef7f30e023c6            11577 Packages
+ 89ffc946fed34c5fb132fae1540e92e03bf902d72d1534c59a88033cf279eadd             4121 Packages.bz2
+ 4dadf1502d27a9ee90961804d4359fb7212c5ba85f3f6b6fcef3190e4f35dd4d             4208 Packages.gz
+ fa7a2308addc11b1c0b9f6e49fe6949f8dfeddb0210cb295152152c7c0b19ed7             3908 Packages.xz
+ e51fa36c11972b5a31325b384dc2ca62ada1756d1619c0ff7629b70963606dc6             3844 Packages.zst
+ b878f6a6199a610fbf284e90847026a19c0eff33fe357ab03979428c7bada28c              195 Release
+SHA512:
+ 08b30c453830d69f6b620d8f42a4d2763871b24aff96e111c6d69e3b6f95720c474558a95b8f902c5e36bd9efd2df424363228348070452780fb35b4205e037a            11577 Packages
+ 27ae5a77a1498c4744553caf2fb172304350e286fdb9dc0bd01a257db0a14ae4599543b1843991c9e266041f036d4ac0a1ad7528f5340606474405f105498582             4121 Packages.bz2
+ c27ed5daaa59f2fcdae081150606a04bf59b96be86a51c7760130ee22f9a11554afb278bec770a9d3cc92971fdfab9eec91bbd0ddb86844cd9d9b5b4209a4e64             4208 Packages.gz
+ ce0412e5f093d5dee126db9547ae38ed40b52f6095d6cc66c36582744e46dbd7b343af6e9cc8982944399283f376a6501b0c62427528a6dce1de116c925d7f69             3908 Packages.xz
+ 3f0c3f2c02a26910ad418ee17e64345a270cb59275cb38b75a5e17d5a7e2832cb11895387ce69293e6c0e41dccba7557cb0ebc2b7bb6f19b72e6209ee6b83da8             3844 Packages.zst
+ 89fb78527a9aba081d11fe67e28f8ffa5bb6480fd93d3239d48cbd3e0b0931eb9c46cd81dca25d00c33fccc326c3f0720e8ee9a97ae250a86031a93d762e0296              195 Release
