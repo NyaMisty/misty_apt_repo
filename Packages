@@ -1,23 +1,5 @@
 Package: com.comex.attachanddetach
 Architecture: iphoneos-arm
-Version: 0.0.2
-Section: System
-Maintainer: Misty
-Installed-Size: 272
-Depends:
-Filename: ./debians/com.comex.attachanddetach_0.0.2_iphoneos-arm.deb
-Size: 7702
-MD5sum: 2bbb907b1c67d93c6e9163c31d221bdb
-SHA1: cd482cb39444d5d28f7320924cbadc568ce334da
-SHA256: 69a24a49d9f71925d117b35827a46ef553f20c826edc23535f9056d19241dcaa
-SHA512: 7157cf02d017bcc029d56d850a564b8c470eaa11a84b8d61c22668fe4703e0aa58c2936b767c7d1cc2201fcec7fd5ee53a890d0f4d7da31c41407a148a27f472
-Description: use .dmgs on iOS
-Tag: role::hacker
-Name: attach-and-detach
-Author: comex, danzatt, Misty
-
-Package: com.comex.attachanddetach
-Architecture: iphoneos-arm
 Version: 0.0.3
 Section: System
 Maintainer: Misty
@@ -226,29 +208,6 @@ Description: Directly decrypt binaries like flexdecrypt, but also supports iOS 1
 Tag: role::hacker
 Name: fouldecrypt
 Author: misty
-
-Package: moe.misty.kernbypass14
-Architecture: iphoneos-arm
-Version: 0.0.6
-Section: System
-Maintainer: Misty
-Installed-Size: 1860
-Pre-Depends: firmware (>= 12.0), firmware (<< 15.0)
-Depends: mobilesubstrate, preferenceloader
-Conflicts: jp.akusio.kernbypass, com.apple.memecity
-Replaces: jp.akusio.kernbypass-unofficial
-Filename: ./debians/moe.misty.kernbypass14_0.0.6_iphoneos-arm.deb
-Size: 94066
-MD5sum: 07178316e8f2efd18625285277adaa89
-SHA1: 50fd76d031d2966c676ede8d86e90fafeb94e8b8
-SHA256: 95e4fe3c0eb3a928c22a0ce4f1fa07fd5a21fd9d097eed0a593c7d5cfb8dc780
-SHA512: c4112e1047ba03d027eef5f48b43ff3b86d137b65d04adb658164f618fca6a46840ae4c7a1599f5ee9446682f5fbab743d46434f671fb7acd47358ceb7ed7e0c
-Description: kernel level jailbreak detection bypass.
-Tag: purpose::extension, compatible::ios12, compatible::ios13, compatible::ios14
-Author: akusio
-Name: KernBypass (iOS14)
-dev: akusio, Misty, ichitaso, XsF1re
-Icon: file:///Library/PreferenceBundles/KernBypassPrefs.bundle/icon@2x.png
 
 Package: moe.misty.sifunlockjp
 Architecture: iphoneos-arm
