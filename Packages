@@ -1,5 +1,23 @@
 Package: com.comex.attachanddetach
 Architecture: iphoneos-arm
+Version: 0.0.2
+Section: System
+Maintainer: Misty
+Installed-Size: 272
+Depends:
+Filename: ./debians/com.comex.attachanddetach_0.0.2_iphoneos-arm.deb
+Size: 7702
+MD5sum: 2bbb907b1c67d93c6e9163c31d221bdb
+SHA1: cd482cb39444d5d28f7320924cbadc568ce334da
+SHA256: 69a24a49d9f71925d117b35827a46ef553f20c826edc23535f9056d19241dcaa
+SHA512: 7157cf02d017bcc029d56d850a564b8c470eaa11a84b8d61c22668fe4703e0aa58c2936b767c7d1cc2201fcec7fd5ee53a890d0f4d7da31c41407a148a27f472
+Description: use .dmgs on iOS
+Tag: role::hacker
+Name: attach-and-detach
+Author: comex, danzatt, Misty
+
+Package: com.comex.attachanddetach
+Architecture: iphoneos-arm
 Version: 0.0.3
 Section: System
 Maintainer: Misty
@@ -191,24 +209,6 @@ Tag: role::hacker
 Name: fouldecrypt
 Author: misty
 
-Package: moe.misty.fouldecrypt
-Architecture: iphoneos-arm
-Version: 0.0.3
-Section: System
-Maintainer: misty
-Installed-Size: 768
-Depends: libkrw (>= 1.0.0)
-Filename: ./debians/moe.misty.fouldecrypt_0.0.3_iphoneos-arm.deb
-Size: 80526
-MD5sum: 00605d726f99d479f29cf2e0fcc0ddbe
-SHA1: fd468e8403ecc08e0adbbbec760d45d1a332b8ef
-SHA256: 0b289ca153d91e726ae59b782cdbd532fd270635b103ac49c3665ff1a55cd7b5
-SHA512: 179b3b0d8c01217a51377473e64b86ac331a0e5cc4cb52106ff619b5c7e62e429f266f2f1264862f612ff8a82624e443f1def30b87111ab3f7b63765afcb3179
-Description: Directly decrypt binaries like flexdecrypt, but also supports iOS 14
-Tag: role::hacker
-Name: fouldecrypt
-Author: misty
-
 Package: moe.misty.kernbypass14
 Architecture: iphoneos-arm
 Version: 0.0.6
@@ -281,22 +281,5 @@ SHA256: ebe539f277e62602bd20ad1e504f30a4d0f9600abd1c19d27e07e37a7ac10cdb
 SHA512: 040bded0bf6cdf4befd00573a84bb3cee49a16c420661cab9ab8b60dba85e39f819704c0db763b1cd4d3c53d2212607a4abf21f5324634e6e94061af38589172
 Description: An awesome MobileSubstrate tweak!
 Name: sifunlock jp
-Author: misty
-
-Package: moe.misty.surge4-advanced
-Architecture: iphoneos-arm
-Version: 0.0.1
-Section: Tweaks
-Maintainer: misty
-Installed-Size: 140
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debians/moe.misty.surge4-advanced_0.0.1_iphoneos-arm.deb
-Size: 10648
-MD5sum: b965dea8ba7be0313e81c3ea0ef91144
-SHA1: 7faac9b057c4ffabe6f431dfab5051affc0ed308
-SHA256: 54fb7f7bad6a03631689c6889df86906873c73c6ca5794231ba3c870fdbbb513
-SHA512: e834627820151ce13b285f8ceb814b7d2875952bbbae887691aa629c675f969382488f931249b15470d205088d122380e4278f3e5780e0db2f2a0e351d9368f3
-Description: An awesome MobileSubstrate tweak!
-Name: Surge4Advanced
 Author: misty
 
