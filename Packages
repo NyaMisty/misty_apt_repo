@@ -88,6 +88,23 @@ Name: KernBypass
 Depiction: http://akusio.github.io/descriptions/kernbypass/index.html
 Author: akusio, Misty
 
+Package: me.chichou.webinspect-global
+Architecture: iphoneos-arm
+Version: 0.2.0
+Section: Tweaks
+Maintainer: codecolorist
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debians/me.chichou.webinspect-global_0.2.0_iphoneos-arm.deb
+Size: 4410
+MD5sum: 60335a4560c00326cf96c2f6e3664073
+SHA1: f9815063a0eb6b66050d0ec390f872da6ecf2abc
+SHA256: 653995d99462c20cff728c9b39deb4ae8eae84511a5633eeb4f1c134b2bf8c28
+SHA512: 3753413001a6db9c6b348bcbfef21bda1208905e97b5195eae2c97a64bdd5c2630420bcc36e06fc690267bd763650b6d4b8632e60ae027576bd7b5b67444cd04
+Description: Enable webview remote inspect for every app
+Name: webinspect
+Author: codecolorist
+
 Package: moe.misty.bilidownload
 Architecture: iphoneos-arm
 Version: 0.0.2
