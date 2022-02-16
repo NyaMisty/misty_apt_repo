@@ -318,3 +318,20 @@ Description: An awesome MobileSubstrate tweak!
 Name: sifunlock jp
 Author: misty
 
+Package: moe.misty.surge4-advanced
+Architecture: iphoneos-arm
+Version: 0.0.1
+Section: Tweaks
+Maintainer: misty
+Installed-Size: 140
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/moe.misty.surge4-advanced_0.0.1_iphoneos-arm.deb
+Size: 10648
+MD5sum: b965dea8ba7be0313e81c3ea0ef91144
+SHA1: 7faac9b057c4ffabe6f431dfab5051affc0ed308
+SHA256: 54fb7f7bad6a03631689c6889df86906873c73c6ca5794231ba3c870fdbbb513
+SHA512: e834627820151ce13b285f8ceb814b7d2875952bbbae887691aa629c675f969382488f931249b15470d205088d122380e4278f3e5780e0db2f2a0e351d9368f3
+Description: An awesome MobileSubstrate tweak!
+Name: Surge4Advanced
+Author: misty
+
