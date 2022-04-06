@@ -105,23 +105,6 @@ Description: Enable webview remote inspect for every app
 Name: webinspect
 Author: codecolorist
 
-Package: moe.misty.bilidownload
-Architecture: iphoneos-arm
-Version: 0.0.2
-Section: Tweaks
-Maintainer: misty
-Installed-Size: 136
-Depends: mobilesubstrate
-Filename: ./debians/moe.misty.bilidownload_0.0.2_iphoneos-arm.deb
-Size: 7234
-MD5sum: 6172eababb72078edba4c7a8c54bbf77
-SHA1: 9ed19263a983058750c182dec2d2cbcb59e52a64
-SHA256: 81ebddc9664a2cf819eec0af234d6ae5de5a8e9b5f1f46fb09f09b290e9363b2
-SHA512: e1b0abca0728d05ca42d883fd237303a50b88e532e96c7211631f83f835f952ca13b2a2403761c640004712f98f442a907e8ee6d1ec3ae19b720c4e100ea733c
-Description: An awesome MobileSubstrate tweak!
-Name: BiliDownload
-Author: misty
-
 Package: moe.misty.bindfsmount
 Architecture: iphoneos-arm
 Version: 0.0.1-19+debug
