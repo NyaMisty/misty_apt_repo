@@ -6,3 +6,4 @@ NyaMisty/Surge4Advanced
 NyaMisty/BiliDownload
 SIFASS/sifunlock_jp
 ChiChou/GlobalWebInspect
+NyaMisty/OneDriveBetter
