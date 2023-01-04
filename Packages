@@ -335,3 +335,20 @@ Description: An awesome MobileSubstrate tweak!
 Name: Surge4Advanced
 Author: misty
 
+Package: moe.misty.surge4-advanced
+Architecture: iphoneos-arm
+Version: 0.0.2
+Section: Tweaks
+Maintainer: misty
+Installed-Size: 140
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/moe.misty.surge4-advanced_0.0.2_iphoneos-arm.deb
+Size: 11048
+MD5sum: 3c7f5495ca1c6c3501f2e097332894b8
+SHA1: 9b72d85376c8abfa07805a8d86411b087c58a6eb
+SHA256: bc1204ce8227e33ae3bfee522014fafbade5543650dd7406f5120284005c7e39
+SHA512: e8550dc826541ed0589946b3ba4dad28ccb27e3ce53714690ba14f7834b725ad2d649f43ec2224c3e2e2157c5ae91c754f6fb6727b8cb23effac1c328f6ddec6
+Description: An awesome MobileSubstrate tweak!
+Name: Surge4Advanced
+Author: misty
+
