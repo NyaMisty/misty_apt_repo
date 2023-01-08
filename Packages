@@ -139,23 +139,6 @@ Tag: role::hacker
 Name: mount_bindfs
 Author: misty
 
-Package: moe.misty.bindfsmount
-Architecture: iphoneos-arm
-Version: 0.0.1-19
-Section: System
-Maintainer: misty
-Installed-Size: 412
-Filename: ./debians/moe.misty.bindfsmount_0.0.1-19_iphoneos-arm.deb
-Size: 7002
-MD5sum: 96c8992e1660369a76589f48c6989bcb
-SHA1: 0644aefe0c030be48b33d428e57758902c426733
-SHA256: bbdd3661c59276103e792fbf24f2691cb81c5d50206b901b77cd04f6feed51de
-SHA512: 2d98e829ed3f4855ba3918e991226b8c4ec6e2eda19eabc71f03bb0dbfc9b59e6a491b05a4a94bc03aed010659d5c14fc993bcd50f3991e8449e3d2c5be30ce7
-Description: An awesome tool of some sort!!
-Tag: role::hacker
-Name: mount_bindfs
-Author: misty
-
 Package: moe.misty.fouldecrypt
 Architecture: iphoneos-arm
 Version: 0.0.1
@@ -204,24 +187,6 @@ MD5sum: 72d52fd377592793ed147a47f9397fd1
 SHA1: 896de285ec9f892e4d19d41591f5a5d77228a934
 SHA256: ae74a9f52996044d653e19093f86228f5f71d705192c3dabb1f4002bacba3c13
 SHA512: dccc9418ece0a7e1fc328c71275a33289a3ceeaceb272534b101a939c7a81702bfcd8440c6aedcd2150e4f40b26658e04595f5c3e07d73d5d902aa8949ab8898
-Description: Directly decrypt binaries like flexdecrypt, but also supports iOS 14
-Tag: role::hacker
-Name: fouldecrypt
-Author: misty
-
-Package: moe.misty.fouldecrypt
-Architecture: iphoneos-arm
-Version: 0.0.3
-Section: System
-Maintainer: misty
-Installed-Size: 768
-Depends: libkrw (>= 1.0.0)
-Filename: ./debians/moe.misty.fouldecrypt_0.0.3_iphoneos-arm.deb
-Size: 80526
-MD5sum: 00605d726f99d479f29cf2e0fcc0ddbe
-SHA1: fd468e8403ecc08e0adbbbec760d45d1a332b8ef
-SHA256: 0b289ca153d91e726ae59b782cdbd532fd270635b103ac49c3665ff1a55cd7b5
-SHA512: 179b3b0d8c01217a51377473e64b86ac331a0e5cc4cb52106ff619b5c7e62e429f266f2f1264862f612ff8a82624e443f1def30b87111ab3f7b63765afcb3179
 Description: Directly decrypt binaries like flexdecrypt, but also supports iOS 14
 Tag: role::hacker
 Name: fouldecrypt
