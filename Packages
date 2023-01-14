@@ -139,6 +139,23 @@ Tag: role::hacker
 Name: mount_bindfs
 Author: misty
 
+Package: moe.misty.bindfsmount
+Architecture: iphoneos-arm
+Version: 0.0.1-19
+Section: System
+Maintainer: misty
+Installed-Size: 412
+Filename: ./debians/moe.misty.bindfsmount_0.0.1-19_iphoneos-arm.deb
+Size: 7002
+MD5sum: 96c8992e1660369a76589f48c6989bcb
+SHA1: 0644aefe0c030be48b33d428e57758902c426733
+SHA256: bbdd3661c59276103e792fbf24f2691cb81c5d50206b901b77cd04f6feed51de
+SHA512: 2d98e829ed3f4855ba3918e991226b8c4ec6e2eda19eabc71f03bb0dbfc9b59e6a491b05a4a94bc03aed010659d5c14fc993bcd50f3991e8449e3d2c5be30ce7
+Description: An awesome tool of some sort!!
+Tag: role::hacker
+Name: mount_bindfs
+Author: misty
+
 Package: moe.misty.fouldecrypt
 Architecture: iphoneos-arm
 Version: 0.0.1
