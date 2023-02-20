@@ -1,23 +1,5 @@
 Package: com.comex.attachanddetach
 Architecture: iphoneos-arm
-Version: 0.0.2
-Section: System
-Maintainer: Misty
-Installed-Size: 272
-Depends:
-Filename: ./debians/com.comex.attachanddetach_0.0.2_iphoneos-arm.deb
-Size: 7702
-MD5sum: 2bbb907b1c67d93c6e9163c31d221bdb
-SHA1: cd482cb39444d5d28f7320924cbadc568ce334da
-SHA256: 69a24a49d9f71925d117b35827a46ef553f20c826edc23535f9056d19241dcaa
-SHA512: 7157cf02d017bcc029d56d850a564b8c470eaa11a84b8d61c22668fe4703e0aa58c2936b767c7d1cc2201fcec7fd5ee53a890d0f4d7da31c41407a148a27f472
-Description: use .dmgs on iOS
-Tag: role::hacker
-Name: attach-and-detach
-Author: comex, danzatt, Misty
-
-Package: com.comex.attachanddetach
-Architecture: iphoneos-arm
 Version: 0.0.3
 Section: System
 Maintainer: Misty
@@ -88,40 +70,6 @@ Name: KernBypass
 Depiction: http://akusio.github.io/descriptions/kernbypass/index.html
 Author: akusio, Misty
 
-Package: me.chichou.webinspect-global
-Architecture: iphoneos-arm
-Version: 0.2.0
-Section: Tweaks
-Maintainer: codecolorist
-Installed-Size: 136
-Depends: mobilesubstrate
-Filename: ./debians/me.chichou.webinspect-global_0.2.0_iphoneos-arm.deb
-Size: 4410
-MD5sum: 60335a4560c00326cf96c2f6e3664073
-SHA1: f9815063a0eb6b66050d0ec390f872da6ecf2abc
-SHA256: 653995d99462c20cff728c9b39deb4ae8eae84511a5633eeb4f1c134b2bf8c28
-SHA512: 3753413001a6db9c6b348bcbfef21bda1208905e97b5195eae2c97a64bdd5c2630420bcc36e06fc690267bd763650b6d4b8632e60ae027576bd7b5b67444cd04
-Description: Enable webview remote inspect for every app
-Name: webinspect
-Author: codecolorist
-
-Package: moe.misty.bilidownload
-Architecture: iphoneos-arm
-Version: 0.0.2
-Section: Tweaks
-Maintainer: misty
-Installed-Size: 136
-Depends: mobilesubstrate
-Filename: ./debians/moe.misty.bilidownload_0.0.2_iphoneos-arm.deb
-Size: 7234
-MD5sum: 6172eababb72078edba4c7a8c54bbf77
-SHA1: 9ed19263a983058750c182dec2d2cbcb59e52a64
-SHA256: 81ebddc9664a2cf819eec0af234d6ae5de5a8e9b5f1f46fb09f09b290e9363b2
-SHA512: e1b0abca0728d05ca42d883fd237303a50b88e532e96c7211631f83f835f952ca13b2a2403761c640004712f98f442a907e8ee6d1ec3ae19b720c4e100ea733c
-Description: An awesome MobileSubstrate tweak!
-Name: BiliDownload
-Author: misty
-
 Package: moe.misty.bindfsmount
 Architecture: iphoneos-arm
 Version: 0.0.1-19+debug
@@ -134,23 +82,6 @@ MD5sum: 0c23ec3aaf9c74e086f50b0c788cc3d9
 SHA1: 1aa86d1505f33cf2b65bbaf5bb8f8dc5aacec2e0
 SHA256: e79dd9557012844e492c696323fb239078dc4593fedee040f3eaee000cdfc3ca
 SHA512: 89b9b9f9d785c39db7d35bf2a5a629187410d81d227cb0bf4e81b32cf897f5cb81c3cab5e9493683646c23167fad2bc896023cd68d1f49f4119f18279808a5f5
-Description: An awesome tool of some sort!!
-Tag: role::hacker
-Name: mount_bindfs
-Author: misty
-
-Package: moe.misty.bindfsmount
-Architecture: iphoneos-arm
-Version: 0.0.1-19
-Section: System
-Maintainer: misty
-Installed-Size: 412
-Filename: ./debians/moe.misty.bindfsmount_0.0.1-19_iphoneos-arm.deb
-Size: 7002
-MD5sum: 96c8992e1660369a76589f48c6989bcb
-SHA1: 0644aefe0c030be48b33d428e57758902c426733
-SHA256: bbdd3661c59276103e792fbf24f2691cb81c5d50206b901b77cd04f6feed51de
-SHA512: 2d98e829ed3f4855ba3918e991226b8c4ec6e2eda19eabc71f03bb0dbfc9b59e6a491b05a4a94bc03aed010659d5c14fc993bcd50f3991e8449e3d2c5be30ce7
 Description: An awesome tool of some sort!!
 Tag: role::hacker
 Name: mount_bindfs
@@ -301,23 +232,6 @@ Description: An awesome MobileSubstrate tweak!
 Name: sifunlock jp
 Author: misty
 
-Package: moe.misty.sifunlockjp
-Architecture: iphoneos-arm
-Version: sifas-jp-845654831
-Section: Tweaks
-Maintainer: misty
-Installed-Size: 148
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debians/moe.misty.sifunlockjp_sifas-jp-845654831_iphoneos-arm.deb
-Size: 17196
-MD5sum: a99818c79435d959dfc0eb29dc678301
-SHA1: 6c451870b6003cd65b0cea7222548be2d2cfd528
-SHA256: 6a005e4f5aec9a3689040ee73a50f88aabaa53b92d166330a68de8d5fe621663
-SHA512: dc6bc78cda7e490ec243d874bc2f093e33d4a64b5bc91fdc4ec40d9416ff75aba97b0b97c74e2ac823b04bc268685e27785eeee8610ff3c733b42aa5fb4509e7
-Description: An awesome MobileSubstrate tweak!
-Name: sifunlock jp
-Author: misty
-
 Package: moe.misty.surge4-advanced
 Architecture: iphoneos-arm
 Version: 0.0.1
@@ -331,23 +245,6 @@ MD5sum: b965dea8ba7be0313e81c3ea0ef91144
 SHA1: 7faac9b057c4ffabe6f431dfab5051affc0ed308
 SHA256: 54fb7f7bad6a03631689c6889df86906873c73c6ca5794231ba3c870fdbbb513
 SHA512: e834627820151ce13b285f8ceb814b7d2875952bbbae887691aa629c675f969382488f931249b15470d205088d122380e4278f3e5780e0db2f2a0e351d9368f3
-Description: An awesome MobileSubstrate tweak!
-Name: Surge4Advanced
-Author: misty
-
-Package: moe.misty.surge4-advanced
-Architecture: iphoneos-arm
-Version: 0.0.2
-Section: Tweaks
-Maintainer: misty
-Installed-Size: 140
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debians/moe.misty.surge4-advanced_0.0.2_iphoneos-arm.deb
-Size: 11048
-MD5sum: 3c7f5495ca1c6c3501f2e097332894b8
-SHA1: 9b72d85376c8abfa07805a8d86411b087c58a6eb
-SHA256: bc1204ce8227e33ae3bfee522014fafbade5543650dd7406f5120284005c7e39
-SHA512: e8550dc826541ed0589946b3ba4dad28ccb27e3ce53714690ba14f7834b725ad2d649f43ec2224c3e2e2157c5ae91c754f6fb6727b8cb23effac1c328f6ddec6
 Description: An awesome MobileSubstrate tweak!
 Name: Surge4Advanced
 Author: misty
