@@ -93,14 +93,14 @@ Architecture: iphoneos-arm
 Version: 0.2.0
 Section: Tweaks
 Maintainer: codecolorist
-Installed-Size: 216
+Installed-Size: 136
 Depends: mobilesubstrate
 Filename: ./debians/me.chichou.webinspect-global_0.2.0_iphoneos-arm.deb
-Size: 5562
-MD5sum: 92ef2cc42b0f2196fba03a4e1dec0425
-SHA1: 7c2aae8cdd1b2dd232331e159c5620ee8ae48f86
-SHA256: f82fd98138dba8b28e2209196a158b195464da34f5d72effe3245912f035a273
-SHA512: 757a7eb84f1328c37b8e3a463b2d51e7433160eada9dc5a727be5e3fc357ebcc6892c527f492a45a027250462c7ef3a3073bcd43e54dd1e4b6eaf803860677cd
+Size: 4288
+MD5sum: 54cfeced6af8ac68af3a123c0e3b0e6e
+SHA1: 9b540fee914640d70ac0f82a0d8f278dd2de5612
+SHA256: ebdc8d6ba094a9045a4b9c7979a95425e6045e6c00ee9763a846ca55bcd323a8
+SHA512: d5408bb1b17dc11054f48b0868184ff0862668b7656e066ebfcfaf56fc36c70ac4b195ac7583d5d7139c26037bcf4a2a154628f1d7abb8d6fc6ff8434d7496bf
 Description: Enable webview remote inspect for every app
 Name: webinspect
 Author: codecolorist
