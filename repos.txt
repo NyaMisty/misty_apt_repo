@@ -7,3 +7,4 @@ NyaMisty/BiliDownload
 SIFASS/sifunlock_jp
 ChiChou/GlobalWebInspect
 NyaMisty/OneDriveBetter
+NyaMisty/ssl-kill-switch3
