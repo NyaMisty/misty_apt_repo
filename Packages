@@ -44,11 +44,32 @@ Pre-Depends: firmware (>= 8.0)
 Depends: libflex
 Conflicts: com.dgh0st.flexall, gg.gh0stbyte.flexivator, com.shmoopillic.flexible, applebetas.ios.tweak.devtools.flexgesture, com.creaturecoding.flexer, com.lacertosusrepo.flex4me, me.nepeta.flexxx, com.ipadkid.flexit, com.qiop1379.flexbar, com.leftyfl1p.reflex
 Filename: ./debians/com.pantsthief.flexing_1.5.0+rootful_iphoneos-arm.deb
-Size: 18016
-MD5sum: e45697c5cc5ea705b654e55005369a95
-SHA1: ab3ce83586652bfd9a333e6e866446e0a090ba4b
-SHA256: 14ff113645b1de4f7502d688f8999f9ede2c3a358b1c92f7a71ae67ff224e0fc
-SHA512: c1f18bcb36ab06005431fef0affe19292e5782180e4220b9a184fb450485f9976281a0ab1e576633e98f4aba02285e4378041e5d1c56cf640d3335f0bc642377
+Size: 17908
+MD5sum: 4bc9f02ca14b4812d058bbf43a56b85b
+SHA1: 527be46096c546ef597f033fb711bb29c212a5d5
+SHA256: 548ddf4e815c80002866468d3e31f555ad0c6d2ff182d733f94139701fb9da9b
+SHA512: f364bd0faa9a2d4654db2839210acf028c3c792cce767bc576dd25d3e77ed5a48a6d4dc411d067fea5a46b8f1390c916977f36a42d175121cbf524ce499cbf9e
+Description: Open FLEX anywhere!
+Name: FLEXing
+Author: Tanner Bennett <thepantsthief@me.com>
+Depiction: https://nscake.github.io/package.html?package=com.pantsthief.flexing
+SileoDepiction: https://nscake.github.io/depictions/com.pantsthief.flexing.sileo.json
+
+Package: com.pantsthief.flexing
+Architecture: iphoneos-arm64e
+Version: 1.5.0+roothide
+Section: Tweaks
+Maintainer: Tanner Bennett <thepantsthief@me.com>
+Installed-Size: 156
+Pre-Depends: firmware (>= 8.0)
+Depends: libflex
+Conflicts: com.dgh0st.flexall, gg.gh0stbyte.flexivator, com.shmoopillic.flexible, applebetas.ios.tweak.devtools.flexgesture, com.creaturecoding.flexer, com.lacertosusrepo.flex4me, me.nepeta.flexxx, com.ipadkid.flexit, com.qiop1379.flexbar, com.leftyfl1p.reflex
+Filename: ./debians/com.pantsthief.flexing_1.5.0+roothide_iphoneos-arm64e.deb
+Size: 10416
+MD5sum: bbeaaa13b17b38036791f6ef56162149
+SHA1: 45660aaca448513925c386004f9600f6839d0fe9
+SHA256: cff2169ba448dca17c6489f652cd80ada501c9969671f224b67812ea1373588e
+SHA512: 7663182fdf9eeab165ca34242aa57298a740792c9d0459d631260eabfb565ef4181fe57649a61eecd4ddfbe350ac95c5ed05c3a16717307765579ed558b63af7
 Description: Open FLEX anywhere!
 Name: FLEXing
 Author: Tanner Bennett <thepantsthief@me.com>
@@ -65,11 +86,11 @@ Pre-Depends: firmware (>= 8.0)
 Depends: libflex
 Conflicts: com.dgh0st.flexall, gg.gh0stbyte.flexivator, com.shmoopillic.flexible, applebetas.ios.tweak.devtools.flexgesture, com.creaturecoding.flexer, com.lacertosusrepo.flex4me, me.nepeta.flexxx, com.ipadkid.flexit, com.qiop1379.flexbar, com.leftyfl1p.reflex
 Filename: ./debians/com.pantsthief.flexing_1.5.0+rootless_iphoneos-arm64.deb
-Size: 18058
-MD5sum: b3de7bb974534f9e016147243df3e6fb
-SHA1: abca559eb5954ff30d4a1deb7acb892807a32417
-SHA256: 19b65f6e418a45c5adbc76e17d6815a8283b63a70fcfc5a64f77c27fa9fa5236
-SHA512: 4ba04923a98adf924061358319012b0e6f23e6ff4bbc5fb886de3781bb2cdafbb99a90e182459ee6685676bd81bddc2b942f31fcb42cfb7d08316f4384509321
+Size: 18072
+MD5sum: 2ddd61c71ea654b14fbe2873889f386d
+SHA1: 566f60b469718433e4796c213713312d62303a68
+SHA256: 5944e4b11657199fec1c0080fa1413e94518cacb6fc50f2c2b6e0297f093ed39
+SHA512: d71258a20913570ddeced200efcae4afbe9d4f1f64af7a8bb08d60637c515e6ac9d2d234d8d2a3e3256f7c21de0d61c24517bc78ff1c8bc1856c8c979a3b2925
 Description: Open FLEX anywhere!
 Name: FLEXing
 Author: Tanner Bennett <thepantsthief@me.com>
@@ -132,18 +153,38 @@ Author: akusio, Misty
 
 Package: libflex
 Architecture: iphoneos-arm
-Version: 4.7.0b4+rootful
+Version: 4.7.0~b4+rootful
 Section: Tweaks
 Maintainer: Tanner Bennett <tannerbennett@me.com>
 Installed-Size: 5328
 Pre-Depends: firmware (>= 9.0)
 Depends:
-Filename: ./debians/libflex_4.7.0b4+rootful_iphoneos-arm.deb
-Size: 1295542
-MD5sum: 3624bbcb7cdb2c1865c197fe7c81163c
-SHA1: aeaa6a16489f4080e23297c4b6e274ae237ccf12
-SHA256: 3ab71e29e8bd65ceec77d68d78d0e809d3daff70656595234a0d77ddc6223b43
-SHA512: 10252eaea34f6384e981bac56244e3a22ead08621f20e450d7878546b0855a881ee00fdb1b0abd7d0448a6fda95d1ea9652947fb10354976ca1ed88205d1b5e6
+Filename: ./debians/libflex_4.7.0~b4+rootful_iphoneos-arm.deb
+Size: 1293686
+MD5sum: 604927c3c97d6f0f6277f8f2030c78c8
+SHA1: 3b7d851b2f800a4542b9fdaee4bbcbe9088738e3
+SHA256: 299565fa60454cca994ccdeb06d3a3792385c8bba9df0ceefd4c0fbd4f95596a
+SHA512: cd5c1c393cda8fd475d544bc5aa3fb6ccb1cb0e555cd929d1658f4bedab4fb14f69a760abe66c26947ff868f83cc92e619af9081ad15838b509741e8a81b7e21
+Description: A library for Flipboard Explorer.
+Name: libFLEX
+Author: Tanner Bennett <tannerbennett@me.com>
+Depiction: https://nscake.github.io/package.html?package=libflex
+SileoDepiction: https://nscake.github.io/depictions/libflex.sileo.json
+
+Package: libflex
+Architecture: iphoneos-arm64e
+Version: 4.7.0~b4+roothide
+Section: Tweaks
+Maintainer: Tanner Bennett <tannerbennett@me.com>
+Installed-Size: 5328
+Pre-Depends: firmware (>= 9.0)
+Depends:
+Filename: ./debians/libflex_4.7.0~b4+roothide_iphoneos-arm64e.deb
+Size: 1296480
+MD5sum: 153952933dc4020330883a0264cfecb9
+SHA1: 47bd1e7ea28bae53d48cdf528ff7a2037404d344
+SHA256: a2a0c205a085f3ba0784ee9bea98f7afb77dd5a8e10c5796833075e1db9ed163
+SHA512: 9ca58658ceeb476cd884717559b4fcbcfc0d3484fafa20ca72aca14ed82edc8582c0f44404d048d9999138c143d9a2037c1987cb6dd92a6c7d24bf273994d33c
 Description: A library for Flipboard Explorer.
 Name: libFLEX
 Author: Tanner Bennett <tannerbennett@me.com>
@@ -152,18 +193,18 @@ SileoDepiction: https://nscake.github.io/depictions/libflex.sileo.json
 
 Package: libflex
 Architecture: iphoneos-arm64
-Version: 4.7.0b4+rootless
+Version: 4.7.0~b4+rootless
 Section: Tweaks
 Maintainer: Tanner Bennett <tannerbennett@me.com>
 Installed-Size: 5328
 Pre-Depends: firmware (>= 9.0)
 Depends:
-Filename: ./debians/libflex_4.7.0b4+rootless_iphoneos-arm64.deb
-Size: 1296604
-MD5sum: d1c4db83a489ce077b96f952ad6f0b29
-SHA1: 63930502ae397b6c306936a85588afe37a7c376d
-SHA256: 6a6fb8f07022664d882227e5af7582bc9fc7c3ef7507e694b185f8ab77d0baae
-SHA512: 94945de91b5984fcc5c8d28ec719aba23b73e24aede5c77be9561d0a129c11dcb18f0b15f1833964bb1ea7b414187e545bda17b97a83e60005cc91412c5c1310
+Filename: ./debians/libflex_4.7.0~b4+rootless_iphoneos-arm64.deb
+Size: 1294816
+MD5sum: a0a98ecefee50d30dc31727d9bf2c7e9
+SHA1: 68d6af2af14367394dfb690de7b066f8ccc778ac
+SHA256: 1f72d5e72fc3eb2cd29e7ee8740783af0e6fc7f1100844fc2c6dc18435c8cfb2
+SHA512: 2e24aa6770ba789d2f92933ea7d22f695d8dbb8257ff15d86a8b0551b57d9b44f0ff872528e27fe2c056856431dd3ba4a9b9177720f11818a01d2cd203c7b569
 Description: A library for Flipboard Explorer.
 Name: libFLEX
 Author: Tanner Bennett <tannerbennett@me.com>
@@ -178,11 +219,30 @@ Maintainer: Tanner Bennett <thepantsthief@me.com>
 Installed-Size: 1356
 Pre-Depends: firmware (>= 13.0)
 Filename: ./debians/libreflex_1.0.0+rootful_iphoneos-arm.deb
-Size: 196726
-MD5sum: e07226b0584a233c825664812c1cac0f
-SHA1: b475770eb80671034bb9fdf1a0e9f335432ffb83
-SHA256: d7b841009efdf9a600dd0b153533be4076fa22f2ecbbbd2589cfa734646c2454
-SHA512: 0e782f3df87a092489d39d9eb108889309e75257d3d23daeb98a0d5431f8736f16a7897f702dfdf0e38189052a63807780a9929ae57c06542b68d9e935b38201
+Size: 197172
+MD5sum: 52b77165957c863cde0ca8aff0f155e7
+SHA1: b6166c684c1b4c9bf53db22252b0c9429e72b175
+SHA256: c56fd50b8dfe1ff578034676c5fb21642a29866ae2f5f5c134625239dcb3b569
+SHA512: bab720db2231bed1834f9e1ed0b4888c8db5dd2207981cbd1b60fe0eaa1ae7461c2b1442ec1ff464f485b914a3a057d049ef8701b48eea25d25706d2fb56446e
+Description: A FLEX extension for Swift object introspection.
+Name: libReflex
+Author: Tanner Bennett <thepantsthief@me.com>
+Depiction: https://nscake.github.io/package.html?package=libflex
+SileoDepiction: https://nscake.github.io/depictions/libflex.sileo.json
+
+Package: libreflex
+Architecture: iphoneos-arm64e
+Version: 1.0.0+roothide
+Section: Tweaks
+Maintainer: Tanner Bennett <thepantsthief@me.com>
+Installed-Size: 1356
+Pre-Depends: firmware (>= 13.0)
+Filename: ./debians/libreflex_1.0.0+roothide_iphoneos-arm64e.deb
+Size: 197134
+MD5sum: 0a4b151ae13a498248d11dfe162fad5c
+SHA1: 4a9778d3938b8f06f8ee0b382272b7398b12c7ab
+SHA256: e469b1275dae8c001aa21a3b2acfd983eea6afd8006ebda5479e01add266ff16
+SHA512: 2c7e96782136094d568b316679671b2439778edace114fa9e88077d2bd07ff3333306bc951cada3c2a15e84485d10f1cd86a2c7dcb94fe9ebb28c3bef48d07b0
 Description: A FLEX extension for Swift object introspection.
 Name: libReflex
 Author: Tanner Bennett <thepantsthief@me.com>
@@ -197,11 +257,11 @@ Maintainer: Tanner Bennett <thepantsthief@me.com>
 Installed-Size: 1356
 Pre-Depends: firmware (>= 13.0)
 Filename: ./debians/libreflex_1.0.0+rootless_iphoneos-arm64.deb
-Size: 197070
-MD5sum: c240a45ce2dc2cc4f89e1c22355afd12
-SHA1: 1312f413418dfb7ef7d1144f7abcc3efd86c6727
-SHA256: 51855fad1ab4839f2c39a59e7712d2dfea1d5457cc33ce26c81f5a22ebeafe5e
-SHA512: 75c033826d7e158f90ddffe9b2cb4b0b6b13496fa6e2d31880edcae66cdb1ca523219cb81ac141d0a2b58f481c12b4f0df1fb9fb7ea3a40b7be8b5274e61f5f3
+Size: 197174
+MD5sum: 57cdf6ffe804e0a0af5f125bbcaaebfd
+SHA1: 31e505a926412670d1d681fd29ad0fea5ab7d58f
+SHA256: 32794ba9c2a7a349a9ff57ce16cef27ccc6babbfd3f9c0507230585d633ab361
+SHA512: 36e55cd043deff9ed0b74ce18301d5d49edbda4e1180c35011e74b4cab3f2da16747bf7f3c9c239471dd1868026b9d3607b5555d24f33d8c8e3a0673d3bdcf2b
 Description: A FLEX extension for Swift object introspection.
 Name: libReflex
 Author: Tanner Bennett <thepantsthief@me.com>
