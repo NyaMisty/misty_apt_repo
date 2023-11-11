@@ -525,3 +525,37 @@ Description: An awesome MobileSubstrate tweak!
 Name: Surge4Advanced
 Author: misty
 
+Package: moe.misty.surge4-advanced
+Architecture: iphoneos-arm
+Version: 0.0.3+rootful
+Section: Tweaks
+Maintainer: misty
+Installed-Size: 220
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/moe.misty.surge4-advanced_0.0.3+rootful_iphoneos-arm.deb
+Size: 14900
+MD5sum: b8fe174cba4a15a2e3f986e8b1bb6f1b
+SHA1: afbac3af9db5666f5ffa928c6c8722fe125c4b18
+SHA256: 7e7aa01246e1c775a99f3cef59e848fbc217a5d0a74745aeba265c7cd78370a5
+SHA512: bd359b35c751d5f170373856a01c9b097e38523b4e602f0ab9d3fa46f01d7eb2aa3719faebb5f97bb13b6fffcbba3634f1bfb5de8265cb2265bd0a979b0ae878
+Description: An awesome MobileSubstrate tweak!
+Name: Surge4Advanced
+Author: misty
+
+Package: moe.misty.surge4-advanced
+Architecture: iphoneos-arm64
+Version: 0.0.3+rootless
+Section: Tweaks
+Maintainer: misty
+Installed-Size: 220
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/moe.misty.surge4-advanced_0.0.3+rootless_iphoneos-arm64.deb
+Size: 15018
+MD5sum: dfbdbf90a2225d46be5c7944b6a6ffec
+SHA1: 9db95a3a8905f612984b57a5f1439707ba9ec17b
+SHA256: 6c798795dd665978b3c66ccadd01ee88c21bc85494c2482c77fa6dbad2139a7f
+SHA512: 311b9804a9251afe5a5293325630f0cdf9999a3dbc95fa1709eae27164ae0f4694733dd4c43888eeab1ecc6d0b25808609fdcc4a1617ca76d97471934c2de41b
+Description: An awesome MobileSubstrate tweak!
+Name: Surge4Advanced
+Author: misty
+
