@@ -559,3 +559,54 @@ Description: An awesome MobileSubstrate tweak!
 Name: Surge4Advanced
 Author: misty
 
+Package: moe.misty.surge4-advanced
+Architecture: iphoneos-arm
+Version: 0.0.4+rootful
+Section: Tweaks
+Maintainer: misty
+Installed-Size: 220
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/moe.misty.surge4-advanced_0.0.4+rootful_iphoneos-arm.deb
+Size: 15180
+MD5sum: c10a1472eda1f8732544ed905b4d230a
+SHA1: 34a46b005c1c8892c389c6bd2efadaa1597f4e8b
+SHA256: 96e3de9ba23f560669b433eee9e1b8b42a1cfbed03eccd17fb3d121923b94af7
+SHA512: 5b25d1312920c5bdbd0ffe72da5252e9a57435c4ca37d611aba168c6575fb022f35fc578de008299fb45ac7bdfcafea1c26a5c1bb0d379cc15819f2e831d8178
+Description: An awesome MobileSubstrate tweak!
+Name: Surge4Advanced
+Author: misty
+
+Package: moe.misty.surge4-advanced
+Architecture: iphoneos-arm64e
+Version: 0.0.4+roothide
+Section: Tweaks
+Maintainer: misty
+Installed-Size: 220
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/moe.misty.surge4-advanced_0.0.4+roothide_iphoneos-arm64e.deb
+Size: 15180
+MD5sum: 9697b4d214bca5ec0b11d095437e152a
+SHA1: c99e2d73a26f72e08093e70ca1619fa73d111899
+SHA256: 4d970eacab21cfc34e726ad6727cf55aea6cecb33e7586d05e780c3b1fc6373c
+SHA512: 0bb250c601b07678208f8fa96c8025d1b4d0b68a47e5847c99d576cb9928f61a67a96f0535859f866a03ef35fceaf8b29d0b45e081886798bb0b6bd05ab494e6
+Description: An awesome MobileSubstrate tweak!
+Name: Surge4Advanced
+Author: misty
+
+Package: moe.misty.surge4-advanced
+Architecture: iphoneos-arm64
+Version: 0.0.4+rootless
+Section: Tweaks
+Maintainer: misty
+Installed-Size: 220
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/moe.misty.surge4-advanced_0.0.4+rootless_iphoneos-arm64.deb
+Size: 15282
+MD5sum: 57b52edf92cebc6bd8ec8bdf72183792
+SHA1: 89059d3d8a8d8dcc3981f83d2055011c424acd74
+SHA256: a23b7fe8f611e4a03ff4ea9f2951c54bdaadd90aea3537f41c46df6904c72e1f
+SHA512: 5143115d20aad54f00aa5848aa955c8aeca7dd5ba0f54ff06272ac78b95a389548d35dde98b02de7303d7bdc34f1353e5c9abb52a1c0764af88208e7d3f40128
+Description: An awesome MobileSubstrate tweak!
+Name: Surge4Advanced
+Author: misty
+
