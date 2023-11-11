@@ -10,7 +10,7 @@ on:
     - cron: '*/30 * * * *'
   workflow_dispatch:
     inputs:
-      unk:
+      force_update:
   repository_dispatch:
 
 jobs:
@@ -37,6 +37,11 @@ jobs:
     - name: Check deb changes
       id: deb_change
       run: |
+        if [ ! -z "${{ github.event.inputs.force_update }}" ]; then
+          echo "Running manually, got instruction to force update the repo"
+          echo "::set-output name=deb_change::true"
+          exit 0
+        fi
         cd debians
         git add .
         if [ -z "$(git status ':(glob)*' --porcelain)" ]; then
