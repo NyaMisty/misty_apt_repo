@@ -605,6 +605,60 @@ Description: Blackbox tool to disable SSL certificate validation - including cer
 Name: SSL Kill Switch 3
 Author: NyaMisty <misty@misty.moe>, Alban Diquet <nabla.c0d3@gmail.com>
 
+Package: moe.misty.sslkillswitch3
+Architecture: iphoneos-arm
+Version: 1.5.1+rootful
+Section: Tweaks
+Maintainer: NyaMisty <misty@misty.moe>
+Installed-Size: 196
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.nablac0d3.sslkillswitch2
+Filename: ./debians/moe.misty.sslkillswitch3_1.5.1+rootful_iphoneos-arm.deb
+Size: 17144
+MD5sum: c3e6d496e188a8db6608c8e1468cd97d
+SHA1: 4c70b95a5128f43b7e7d0b329225f6f603ab30c0
+SHA256: c077c8606a09d04221c5cc1caa2c6f2ca8a490a47c8d338bed6daaf31e0b84ef
+SHA512: 9bb064b200206f2918f63c2d1528497e49cfa4faf9213183d020001505c66ad78ed12e5b1f3b6364aff217e0cae9da44fe52ed5bf2400059b6fea7b4d0d73317
+Description: Blackbox tool to disable SSL certificate validation - including certificate pinning - within iOS and OS X Apps.
+Name: SSL Kill Switch 3
+Author: NyaMisty <misty@misty.moe>, Alban Diquet <nabla.c0d3@gmail.com>
+
+Package: moe.misty.sslkillswitch3
+Architecture: iphoneos-arm64e
+Version: 1.5.1+roothide
+Section: Tweaks
+Maintainer: NyaMisty <misty@misty.moe>
+Installed-Size: 196
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.nablac0d3.sslkillswitch2
+Filename: ./debians/moe.misty.sslkillswitch3_1.5.1+roothide_iphoneos-arm64e.deb
+Size: 17232
+MD5sum: 78e600fe6c3da64b517fefb866f93538
+SHA1: c4a7a6bdc01d6e5d03020d41a0fae38652c0e72d
+SHA256: c2bacb4d53a6761b5cd6eaf5c6e1abae259b36fcd75cc8abc268d00e39ddc1bf
+SHA512: 1cc93f04436859f22006a6ad904f8a5ea8c4c8948fc7834d43ae6524f0f83bd0bac34babcad902e18e771a3836c8b684782b65025a0b0ddd7f499e1504fed0d1
+Description: Blackbox tool to disable SSL certificate validation - including certificate pinning - within iOS and OS X Apps.
+Name: SSL Kill Switch 3
+Author: NyaMisty <misty@misty.moe>, Alban Diquet <nabla.c0d3@gmail.com>
+
+Package: moe.misty.sslkillswitch3
+Architecture: iphoneos-arm64
+Version: 1.5.1+rootless
+Section: Tweaks
+Maintainer: NyaMisty <misty@misty.moe>
+Installed-Size: 196
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.nablac0d3.sslkillswitch2
+Filename: ./debians/moe.misty.sslkillswitch3_1.5.1+rootless_iphoneos-arm64.deb
+Size: 17234
+MD5sum: 9feb432133c0df263558b754a1e3e5f7
+SHA1: ae3a9bbce6222dc00af6abee3a4a854db7c512b2
+SHA256: 6a0deb464b54c88fb7c16b437806b02f8a1c053ef53df3dcca219ed18ec24036
+SHA512: 05cd45dd8e21150532d3cb8772b5262d8a266f11a036ddaf4e99eeb8dc9561b14b06d96b8d8ad9b438fed8db94b0f0767408b938272a215638b49ad8d5cdc80d
+Description: Blackbox tool to disable SSL certificate validation - including certificate pinning - within iOS and OS X Apps.
+Name: SSL Kill Switch 3
+Author: NyaMisty <misty@misty.moe>, Alban Diquet <nabla.c0d3@gmail.com>
+
 Package: moe.misty.surge4-advanced
 Architecture: iphoneos-arm
 Version: 0.0.1
